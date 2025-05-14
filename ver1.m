@@ -1,4 +1,4 @@
-%% Inlämningsuppgift 2, Ebba Wargh
+%% Inlämningsuppgift 2
 clear all;
 clc;
 
